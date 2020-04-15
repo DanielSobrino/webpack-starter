@@ -1,0 +1,10 @@
+/*Este es el estilo del main*/
+html, body {
+    background-color: cornflowerblue;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+#logo {
+    width: 250px;
+}
